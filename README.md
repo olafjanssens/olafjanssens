@@ -1,7 +1,7 @@
 # Intro
 - 👋 Hi, I’m @olafjanssens
 - 👀 I’m interested in history, Cloud and distributed computing
-- 🌱 I’m currently learning AWS
+- 🌱 I’m currently learning AI/ML
 - 💞️ I’m looking to collaborate on pipeline optimization
 - 📫 How to reach me ... (through here is fine)
 
